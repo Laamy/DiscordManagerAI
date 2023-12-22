@@ -1,6 +1,6 @@
 # Chapters
-> Idea
-> Virtual Court
+> Idea </b>
+> Virtual Court</b>
 
 # Notes
 I also want to expand on this to hire and demote staff completely automatically
