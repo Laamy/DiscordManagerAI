@@ -1,5 +1,6 @@
 # Chapters
-> Idea </b>
+> Idea
+
 > Virtual Court</b>
 
 # Notes
